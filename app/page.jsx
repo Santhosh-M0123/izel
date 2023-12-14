@@ -90,7 +90,7 @@ export default function Home() {
         </div>
         <div className={script.className}>
           <div className={styles.domain_list}>
-            <span style={{color :"rgb(233, 91, 91)"}}>Fullstack developement</span>
+            <span>Fullstack developement</span>
             <span>Android developement</span>
             <span>Api developement</span>
             <span>UI/UX & Graphic design</span>
