@@ -1,0 +1,39 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    /* position: fixed;
+    top: 0;
+    left: 0; */
+}
+.nav_links_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    font-size: 15px;
+    /* padding: 10px 20px;
+    border: 2px solid black;
+    border-radius: 10px; */
+}
+.nav_link_container{
+    cursor: pointer;
+}
+.left_container{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+.logo_icon{
+    display: none;
+}
+
+@media (max-width : 800px) {
+    .logo{
+        display: none;
+    }
+    .logo_icon{
+        display: block;
+    }
+}
