@@ -90,9 +90,9 @@ export default function Home() {
         </div>
         <div className={script.className}>
           <div className={styles.domain_list}>
-            <span>Fullstack developement</span>
-            <span>Android developement</span>
-            <span>Api developement</span>
+            <span>Fullstack development</span>
+            <span>Android development</span>
+            <span>Api development</span>
             <span>UI/UX & Graphic design</span>
           </div>
         </div>
