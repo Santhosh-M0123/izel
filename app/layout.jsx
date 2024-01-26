@@ -8,9 +8,9 @@ const inter = Poppins({
 });
 
 export const metadata = {
-  title: "Izel | The community empowered by the students",
+  title: "Top Software Solutions Company in Coimbatore | Izel",
   description:
-    "Upscale your business in digital world - Izel is the community empowered by the skilled students to build and deploy your idea into the world of digital at the minimal of cost",
+    "Izel is the leading software solution company based in Coimbatore. We offer the best-in-class services including website development, UI/UX design, app development, and more. Contact us today for top-notch digital solutions!",
 };
 
 export default function RootLayout({ children }) {

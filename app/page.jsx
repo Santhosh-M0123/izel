@@ -14,7 +14,6 @@ import { FaPaintBrush } from "react-icons/fa";
 import { RiApps2Fill } from "react-icons/ri";
 import { IoLogoHtml5 } from "react-icons/io5";
 import { MdAlternateEmail } from "react-icons/md";
-import { FaPhoneAlt } from "react-icons/fa";
 import { FaWhatsapp } from "react-icons/fa";
 import { CiLinkedin } from "react-icons/ci";
 import { FaArrowRightLong } from "react-icons/fa6";
