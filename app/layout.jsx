@@ -8,10 +8,11 @@ const inter = Poppins({
 });
 
 export const metadata = {
-  title: "Top Software Solutions Company in Coimbatore | Izel",
+  title: "Izel Technologies - Web Design, SEO, Website Development company in coimbatore, Ecommerce development",
   description:
-    "Izel is the leading software solution company based in Coimbatore. We offer the best-in-class services including website development, UI/UX design, app development, and more. Contact us today for top-notch digital solutions!",
+    "Izel Technologies is a leading web design, SEO, web development, and ecommerce website development company based in Coimbatore. Get professional digital solutions for website design, custom software development, SEO services, and ecommerce solutions. Contact us today!",
 };
+
 
 export default function RootLayout({ children }) {
   return (
