@@ -64,7 +64,7 @@ export default function Home() {
         <div className={styles.hero_about}>
           <p style={{ fontSize: "18px",color : "gray" }}>
             Digital agency with solid design and development expertise. We build
-            websites, mobile apps and more....
+            websites, mobile apps and more........
           </p>
           {/* <button>Schedule a call</button> */}
         </div>
